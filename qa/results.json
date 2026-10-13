@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-13",
+  "java": {
+    "jdk": 21,
+    "checks": 22,
+    "status": "passed"
+  },
+  "chapterRendering": {
+    "units": 15,
+    "status": "passed"
+  },
+  "core": {
+    "passed": 25,
+    "checks": [
+      "拒绝过早结束",
+      "作者回避",
+      "反对意见决定拒绝结果",
+      "过期快照冲突",
+      "重新加载保留双方意见",
+      "无版本检查的丢失更新",
+      "崩溃窗口与投影延迟",
+      "Outbox 恢复与去重",
+      "无去重的重复副作用",
+      "无 Outbox 的消息丢失",
+      "ACL 语义转换",
+      "Conformist 模型影响",
+      "中间版本重放",
+      "完成事实重放",
+      "滑块回到历史状态",
+      "错误答案反馈",
+      "笔记持久化",
+      "已读持久化",
+      "笔记安全转义",
+      "导出学习记录",
+      "导入合并学习记录",
+      "全文搜索",
+      "术语筛选",
+      "六步案例浏览",
+      "无 JavaScript 异常"
+    ],
+    "errors": []
+  },
+  "mobileAndOffline": {
+    "passed": 6,
+    "checks": [
+      "390px：12 个页面无页面级横向溢出",
+      "320px：12 个页面无页面级横向溢出",
+      "手机目录可展开、跳转、自动收起",
+      "深色主题及持久保存",
+      "30 道自测题均可回答、解释与汇总正确",
+      "file:// 离线打开且实验可运行"
+    ],
+    "errors": []
+  },
+  "followup": {
+    "mobileSidebarHidden": true,
+    "horizontalOverflow": false
+  },
+  "scope": "纯 Java 模型、Chromium 浏览器、file:// 离线打开；不验证真实数据库、Spring 或消息中间件。"
+}

@@ -1,0 +1,82 @@
+{
+  "builtAt": "2026-10-13T02:50:37.578Z",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "DDD 入门",
+      "questions": 2
+    },
+    {
+      "id": "ch2",
+      "title": "领域、子域与限界上下文",
+      "questions": 2
+    },
+    {
+      "id": "ch3",
+      "title": "上下文映射图",
+      "questions": 2
+    },
+    {
+      "id": "ch4",
+      "title": "架构",
+      "questions": 2
+    },
+    {
+      "id": "ch5",
+      "title": "实体",
+      "questions": 2
+    },
+    {
+      "id": "ch6",
+      "title": "值对象",
+      "questions": 2
+    },
+    {
+      "id": "ch7",
+      "title": "领域服务",
+      "questions": 2
+    },
+    {
+      "id": "ch8",
+      "title": "领域事件",
+      "questions": 2
+    },
+    {
+      "id": "ch9",
+      "title": "模块",
+      "questions": 2
+    },
+    {
+      "id": "ch10",
+      "title": "聚合",
+      "questions": 2
+    },
+    {
+      "id": "ch11",
+      "title": "工厂",
+      "questions": 2
+    },
+    {
+      "id": "ch12",
+      "title": "资源库／仓储",
+      "questions": 2
+    },
+    {
+      "id": "ch13",
+      "title": "集成限界上下文",
+      "questions": 2
+    },
+    {
+      "id": "ch14",
+      "title": "应用程序",
+      "questions": 2
+    },
+    {
+      "id": "appendix",
+      "title": "聚合与事件溯源",
+      "questions": 2
+    }
+  ],
+  "sources": 9,
+  "htmlBytes": 143132
+}
